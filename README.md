@@ -1,4 +1,4 @@
-The application represents the realization of an exchange system.
+The application represents the realization of an exchange currency system.
 
 The application consists of two pages:
 
@@ -16,9 +16,9 @@ There are 7 currencies in the system:
 - KM
 - YEN
 
-The application is designed so it is very easy to add new currencies.
+The application is designed in a way that makes it very easy to add new currencies.
 
 The reusable components are:
 
-- CurrencyField - the field of one currency when changing money
+- CurrencyField - the field of one currency in the process of exchanging
 - CurrencyRed - one row in the exchange rate table
